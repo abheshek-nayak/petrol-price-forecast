@@ -1,0 +1,310 @@
+2022-12-01 14:08:43,955:INFO:Initializing load_model()
+2022-12-01 14:08:43,955:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-12-01 14:09:36,608:INFO:Initializing load_model()
+2022-12-01 14:09:36,608:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-12-01 14:20:29,488:INFO:Initializing load_model()
+2022-12-01 14:20:29,488:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-12-01 15:54:14,268:INFO:Initializing load_model()
+2022-12-01 15:54:14,268:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-12-01 15:56:47,862:INFO:Initializing load_model()
+2022-12-01 15:56:47,862:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-12-01 16:07:48,068:INFO:Initializing load_model()
+2022-12-01 16:07:48,068:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-12-01 16:28:54,302:INFO:Initializing load_model()
+2022-12-01 16:28:54,303:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-12-01 17:01:41,763:INFO:Initializing load_model()
+2022-12-01 17:01:41,764:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-12-01 17:04:35,016:INFO:Initializing load_model()
+2022-12-01 17:04:35,016:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-12-01 17:23:06,356:INFO:Initializing load_model()
+2022-12-01 17:23:06,357:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-12-01 17:25:47,021:INFO:Initializing load_model()
+2022-12-01 17:25:47,022:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-12-01 17:32:41,648:INFO:Initializing load_model()
+2022-12-01 17:32:41,648:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-12-01 18:06:38,571:INFO:Initializing load_model()
+2022-12-01 18:06:38,571:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-12-01 18:10:46,966:INFO:Initializing load_model()
+2022-12-01 18:10:46,966:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-12-01 18:12:49,590:INFO:Initializing load_model()
+2022-12-01 18:12:49,590:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-12-01 18:22:47,708:INFO:Initializing load_model()
+2022-12-01 18:22:47,708:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-12-01 19:20:50,857:INFO:Initializing load_model()
+2022-12-01 19:20:50,858:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-12-01 19:21:01,149:INFO:Initializing predict_model()
+2022-12-01 19:21:01,149:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      numerical_features=['year', 'Series'],
+                                      target='USD')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_s...
+                                                 criterion='mse',
+                                                 max_depth=None,
+                                                 max_features='auto',
+                                                 max_leaf_nodes=None,
+                                                 max_samples=None,
+                                                 min_impurity_decrease=0.0,
+                                                 min_impurity_split=None,
+                                                 min_samples_leaf=1,
+                                                 min_samples_split=2,
+                                                 min_weight_fraction_leaf=0.0,
+                                                 n_estimators=100, n_jobs=-1,
+                                                 oob_score=False,
+                                                 random_state=123,
+                                                 regressor=RandomForestRegressor(n_jobs=-1,
+                                                                                 random_state=123),
+                                                 verbose=0,
+                                                 warm_start=False)]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-12-01 19:21:01,149:INFO:Checking exceptions
+2022-12-01 19:21:01,149:INFO:Preloading libraries
+2022-12-01 19:23:04,351:INFO:Initializing load_model()
+2022-12-01 19:23:04,351:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-12-01 19:23:50,924:INFO:Initializing load_model()
+2022-12-01 19:23:50,924:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-12-01 19:26:50,179:INFO:Initializing load_model()
+2022-12-01 19:26:50,179:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-12-01 19:27:34,084:INFO:Initializing predict_model()
+2022-12-01 19:27:34,084:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      numerical_features=['year', 'Series'],
+                                      target='USD')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_s...
+                                                 criterion='mse',
+                                                 max_depth=None,
+                                                 max_features='auto',
+                                                 max_leaf_nodes=None,
+                                                 max_samples=None,
+                                                 min_impurity_decrease=0.0,
+                                                 min_impurity_split=None,
+                                                 min_samples_leaf=1,
+                                                 min_samples_split=2,
+                                                 min_weight_fraction_leaf=0.0,
+                                                 n_estimators=100, n_jobs=-1,
+                                                 oob_score=False,
+                                                 random_state=123,
+                                                 regressor=RandomForestRegressor(n_jobs=-1,
+                                                                                 random_state=123),
+                                                 verbose=0,
+                                                 warm_start=False)]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-12-01 19:27:34,085:INFO:Checking exceptions
+2022-12-01 19:27:34,085:INFO:Preloading libraries
+2022-12-01 19:39:06,656:INFO:Initializing load_model()
+2022-12-01 19:39:06,656:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-12-01 19:40:50,903:INFO:Initializing load_model()
+2022-12-01 19:40:50,903:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-12-01 19:42:13,928:INFO:Initializing load_model()
+2022-12-01 19:42:13,928:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-12-01 19:42:21,611:INFO:Initializing predict_model()
+2022-12-01 19:42:21,612:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      numerical_features=['year', 'Series'],
+                                      target='USD')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_s...
+                                                 criterion='mse',
+                                                 max_depth=None,
+                                                 max_features='auto',
+                                                 max_leaf_nodes=None,
+                                                 max_samples=None,
+                                                 min_impurity_decrease=0.0,
+                                                 min_impurity_split=None,
+                                                 min_samples_leaf=1,
+                                                 min_samples_split=2,
+                                                 min_weight_fraction_leaf=0.0,
+                                                 n_estimators=100, n_jobs=-1,
+                                                 oob_score=False,
+                                                 random_state=123,
+                                                 regressor=RandomForestRegressor(n_jobs=-1,
+                                                                                 random_state=123),
+                                                 verbose=0,
+                                                 warm_start=False)]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-12-01 19:42:21,612:INFO:Checking exceptions
+2022-12-01 19:42:21,612:INFO:Preloading libraries
+2022-12-01 19:43:03,266:INFO:Initializing load_model()
+2022-12-01 19:43:03,266:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-12-01 19:43:11,189:INFO:Initializing predict_model()
+2022-12-01 19:43:11,189:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      numerical_features=['year', 'Series'],
+                                      target='USD')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_s...
+                                                 criterion='mse',
+                                                 max_depth=None,
+                                                 max_features='auto',
+                                                 max_leaf_nodes=None,
+                                                 max_samples=None,
+                                                 min_impurity_decrease=0.0,
+                                                 min_impurity_split=None,
+                                                 min_samples_leaf=1,
+                                                 min_samples_split=2,
+                                                 min_weight_fraction_leaf=0.0,
+                                                 n_estimators=100, n_jobs=-1,
+                                                 oob_score=False,
+                                                 random_state=123,
+                                                 regressor=RandomForestRegressor(n_jobs=-1,
+                                                                                 random_state=123),
+                                                 verbose=0,
+                                                 warm_start=False)]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-12-01 19:43:11,189:INFO:Checking exceptions
+2022-12-01 19:43:11,189:INFO:Preloading libraries
+2022-12-01 19:53:35,675:INFO:Initializing load_model()
+2022-12-01 19:53:35,675:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-12-01 19:53:48,991:INFO:Initializing predict_model()
+2022-12-01 19:53:48,991:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      numerical_features=['year', 'Series'],
+                                      target='USD')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_s...
+                                                 criterion='mse',
+                                                 max_depth=None,
+                                                 max_features='auto',
+                                                 max_leaf_nodes=None,
+                                                 max_samples=None,
+                                                 min_impurity_decrease=0.0,
+                                                 min_impurity_split=None,
+                                                 min_samples_leaf=1,
+                                                 min_samples_split=2,
+                                                 min_weight_fraction_leaf=0.0,
+                                                 n_estimators=100, n_jobs=-1,
+                                                 oob_score=False,
+                                                 random_state=123,
+                                                 regressor=RandomForestRegressor(n_jobs=-1,
+                                                                                 random_state=123),
+                                                 verbose=0,
+                                                 warm_start=False)]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-12-01 19:53:48,991:INFO:Checking exceptions
+2022-12-01 19:53:48,991:INFO:Preloading libraries
+2022-12-01 19:54:28,421:INFO:Initializing predict_model()
+2022-12-01 19:54:28,422:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      numerical_features=['year', 'Series'],
+                                      target='USD')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_s...
+                                                 criterion='mse',
+                                                 max_depth=None,
+                                                 max_features='auto',
+                                                 max_leaf_nodes=None,
+                                                 max_samples=None,
+                                                 min_impurity_decrease=0.0,
+                                                 min_impurity_split=None,
+                                                 min_samples_leaf=1,
+                                                 min_samples_split=2,
+                                                 min_weight_fraction_leaf=0.0,
+                                                 n_estimators=100, n_jobs=-1,
+                                                 oob_score=False,
+                                                 random_state=123,
+                                                 regressor=RandomForestRegressor(n_jobs=-1,
+                                                                                 random_state=123),
+                                                 verbose=0,
+                                                 warm_start=False)]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-12-01 19:54:28,422:INFO:Checking exceptions
+2022-12-01 19:54:28,422:INFO:Preloading libraries
+2022-12-01 19:56:15,913:INFO:Initializing load_model()
+2022-12-01 19:56:15,914:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-12-01 19:56:30,368:INFO:Initializing predict_model()
+2022-12-01 19:56:30,369:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      numerical_features=['year', 'Series'],
+                                      target='USD')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_s...
+                                                 criterion='mse',
+                                                 max_depth=None,
+                                                 max_features='auto',
+                                                 max_leaf_nodes=None,
+                                                 max_samples=None,
+                                                 min_impurity_decrease=0.0,
+                                                 min_impurity_split=None,
+                                                 min_samples_leaf=1,
+                                                 min_samples_split=2,
+                                                 min_weight_fraction_leaf=0.0,
+                                                 n_estimators=100, n_jobs=-1,
+                                                 oob_score=False,
+                                                 random_state=123,
+                                                 regressor=RandomForestRegressor(n_jobs=-1,
+                                                                                 random_state=123),
+                                                 verbose=0,
+                                                 warm_start=False)]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-12-01 19:56:30,369:INFO:Checking exceptions
+2022-12-01 19:56:30,369:INFO:Preloading libraries
+2022-12-01 19:56:56,496:INFO:Initializing load_model()
+2022-12-01 19:56:56,496:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-12-01 19:57:03,955:INFO:Initializing predict_model()
+2022-12-01 19:57:03,956:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      numerical_features=['year', 'Series'],
+                                      target='USD')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_s...
+                                                 criterion='mse',
+                                                 max_depth=None,
+                                                 max_features='auto',
+                                                 max_leaf_nodes=None,
+                                                 max_samples=None,
+                                                 min_impurity_decrease=0.0,
+                                                 min_impurity_split=None,
+                                                 min_samples_leaf=1,
+                                                 min_samples_split=2,
+                                                 min_weight_fraction_leaf=0.0,
+                                                 n_estimators=100, n_jobs=-1,
+                                                 oob_score=False,
+                                                 random_state=123,
+                                                 regressor=RandomForestRegressor(n_jobs=-1,
+                                                                                 random_state=123),
+                                                 verbose=0,
+                                                 warm_start=False)]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
+2022-12-01 19:57:03,956:INFO:Checking exceptions
+2022-12-01 19:57:03,956:INFO:Preloading libraries

@@ -1,6 +1,16 @@
 FROM python:3.8
-COPY . /app
-WORKDIR /app
+
+RUN mkdir /code
+
+WORKDIR /code
+
+COPY requirements.txt .
+
 RUN pip install -r requirements.txt
-EXPOSE $PORT
-CMD gunicorn --workers=4 --bind 0.0.0.0:$PORT app:app
+
+COPY . .
+
+CMD ["uvicorn", "main:app", "--host=0.0.0.0", "--port=80"]
+
+
+

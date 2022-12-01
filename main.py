@@ -46,5 +46,3 @@ async def create_upload_file(request: Request,file: UploadFile = File(...)):
     
 
 
-if __name__ == '__main__':
-    uvicorn.run("main:app", reload=True)

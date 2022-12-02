@@ -4,4 +4,6 @@
    :point_right: docker pull abhishekc2q/petrol-forecast <br>
    :point_right: docker container run --publish 80:80 --name petrol-forecast abhishekc2q/petrol-forecast<br>
    :point_right: http://localhost:80
+   :point_right: use the SampleSubmission.csv in the repository to try  the model
+   
 
